@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "problems/jumpGame2.hpp"
+#include "problems/hIndex.hpp"
 
 int main(){
     test();
