@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "problems/hIndex.hpp"
+#include "problems/insertDeleteGetRandom.hpp"
 
 int main(){
     test();
