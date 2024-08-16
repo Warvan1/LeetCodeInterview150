@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "problems/insertDeleteGetRandom.hpp"
+#include "problems/productOfArrayExceptSelf.hpp"
 
 int main(){
     test();
