@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "problems/productOfArrayExceptSelf.hpp"
+#include "problems/gasStation.hpp"
 
 int main(){
     test();
