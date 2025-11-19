@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "problems/gasStation.hpp"
+#include "problems/trappingRainWater.hpp"
 
 int main(){
     test();
