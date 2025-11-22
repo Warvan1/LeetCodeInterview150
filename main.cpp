@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "problems/trappingRainWater.hpp"
+#include "problems/longestCommonPrefix.hpp"
 
 int main(){
     test();
