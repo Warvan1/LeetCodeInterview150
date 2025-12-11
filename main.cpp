@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "problems/longestCommonPrefix.hpp"
+#include "problems/reverseWords.hpp"
 
 int main(){
     test();
