@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "problems/reverseWords.hpp"
+#include "problems/textJustification.hpp"
 
 int main(){
     test();
