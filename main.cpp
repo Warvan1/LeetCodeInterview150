@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "problems/textJustification.hpp"
+#include "problems/twoSum2Sorted.hpp"
 
 int main(){
     test();
